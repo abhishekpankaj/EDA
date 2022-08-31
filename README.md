@@ -1,2 +1,2 @@
-# CALIFORNIA HOUSE PREDICTION
-Performed regression to check best model fit .
+# EXPLORATORY DATA ANALYSIS
+Performed data analysis to get useful insights from data of titanic dataset.
