@@ -1,2 +1,2 @@
-# EDA
-Performed exploratory data analysis 
+# CALIFORNIA HOUSE PREDICTION
+Performed regression to check best model fit .
